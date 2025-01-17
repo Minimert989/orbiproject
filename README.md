@@ -8,6 +8,10 @@ titleclicker는 글 자동 삭제
 imin scraper는 아이민으로 쓴글 제목 추출
 
 lottery는 자동 복권 구매
+
+imagedownloader는 자동 이미지 다운
+
+
 1. 파이썬 설치 방법 
 Windows:
 	1.	Python 공식 웹사이트로 이동하세요.
