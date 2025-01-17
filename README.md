@@ -1,10 +1,13 @@
 # orbiproject
+
 오르비 프로젝트 ( orbi.kr 사이트 관련 잡다한 코드 )
 위에 orbi commenter 는 매크로 댓글
 
 titleclicker는 글 자동 삭제 
 
 imin scraper는 아이민으로 쓴글 제목 추출
+
+lottery는 자동 복권 구매
 1. 파이썬 설치 방법 
 Windows:
 	1.	Python 공식 웹사이트로 이동하세요.
